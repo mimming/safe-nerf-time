@@ -17,5 +17,6 @@ This tool sends an SMS to your AT&T phone when a shell command (e.g. a build scr
 
 1.  Run your build script and pipe the output into `sms_me_last_line.sh` specifying your phone number as a parameter:
 
-```$ fakebuild.sh | sms_me_last_line.sh "+14158675309"
+```
+$ fakebuild.sh | sms_me_last_line.sh "+14158675309"
 ```
