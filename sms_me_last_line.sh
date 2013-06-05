@@ -1,7 +1,7 @@
 #!/bin/sh 
 
 
-clientid='TOUR_CLIENT_ID'
+clientid='YOUR_CLIENT_ID'
 clientsecret='YOUR_CLIENT_SECRET'
 while read LINE; do
   echo $LINE
